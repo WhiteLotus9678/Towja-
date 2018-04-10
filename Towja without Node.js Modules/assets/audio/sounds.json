@@ -1,0 +1,40 @@
+{
+  "resources": [
+    "assets/audio/sounds.ogg",
+    "assets/audio/sounds.m4a",
+    "assets/audio/sounds.mp3",
+    "assets/audio/sounds.ac3"
+  ],
+  "spritemap": {
+    "MainTheme": {
+      "start": 0,
+      "end": 92.16,
+      "loop": true
+    },
+    "Metor chain": {
+      "start": 94,
+      "end": 95.02,
+      "loop": false
+    },
+    "Run": {
+      "start": 97,
+      "end": 97.37151927437641,
+      "loop": true
+    },
+    "sword hit": {
+      "start": 99,
+      "end": 99.4,
+      "loop": false
+    },
+    "Sword miss": {
+      "start": 101,
+      "end": 101.41551020408163,
+      "loop": false
+    },
+    "TitleScreen": {
+      "start": 103,
+      "end": 195.16,
+      "loop": true
+    }
+  }
+}
